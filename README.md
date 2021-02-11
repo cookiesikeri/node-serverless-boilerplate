@@ -1,4 +1,4 @@
-## serverless-typescript-apaleo
+## node-serverless-boilerplate
 
 A starter kit for a serverless apaleo client gently offer by [limehome-engineering](https://medium.com/limehome-engineering) 🙌 ✌️.
 
