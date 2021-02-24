@@ -26,6 +26,7 @@ Grab the latest version of a `swagger.json` for any service that needs to be upd
 The link to `swagger.json` file can be found here:
 - [apaleo Core API](https://api.apaleo.com/swagger)
 - [apaleo Webhook API](https://webhook.apaleo.com/swagger)
+- [apaleo UI Integration API](https://integration.apaleo.com/swagger)
 
 Once you have the `swagger.json` locally, navigate to the `/src/generated/apaleo` folder and copy the file into the folder.
 Then, pick the corresponding `autorest-{service}.yaml` and call autorest, for example:
