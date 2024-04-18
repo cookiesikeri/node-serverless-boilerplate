@@ -12,7 +12,7 @@
     "local": "serverless offline"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "prettier": "2.2.1",
     "source-map-support": "^0.5.19",
     "@azure/core-http": "^1.2.3",
