@@ -15,7 +15,7 @@
     "axios": "^0.21.1",
     "prettier": "2.2.1",
     "source-map-support": "^0.5.19",
-    "@azure/core-http": "^1.2.3",
+    "@azure/core-http": "^1.2.6",
     "tslib": "^2.1.0"
   },
   "devDependencies": {
