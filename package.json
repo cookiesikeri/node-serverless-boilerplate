@@ -16,7 +16,7 @@
     "prettier": "2.2.1",
     "source-map-support": "^0.5.19",
     "@azure/core-http": "^1.2.3",
-    "tslib": "^2.1.0"
+    "tslib": "^2.6.2"
   },
   "devDependencies": {
     "@serverless/typescript": "^2.23.0",
